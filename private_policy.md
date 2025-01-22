@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at support@example.com.
+We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at sorin@craiova.dj.
 
 When you use our application, you trust us with your personal information. We take your privacy very seriously. In this privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important.
 
@@ -55,6 +55,6 @@ We may update this privacy policy from time to time in order to reflect, for exa
 
 If you have questions or comments about this policy, you may contact us at:
 
-**Email:** support@example.com
+**Email:** sorin@craiova.dj
 
-**Address:** 123 Privacy St, Privacy City, PC 12345, Country
+**Address:** 123 Craiova, Dolj, Romania
